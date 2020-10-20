@@ -18,7 +18,10 @@ Click [HERE](https://budget-tracker-sjs.herokuapp.com/) to use/view working appl
 # Installation
 No installation needed.
 # Usage
- - Enter the name of your transaction - add a price - select subtract or add - watch as the graph displays your budget data
+ - Enter the name of your transaction 
+ - Add a price 
+ - Select subtract or add 
+ - Watch as the graph displays your budget data
 # Contributing
 No guidelines for contributing.
 # Test
